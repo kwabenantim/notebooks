@@ -1,0 +1,7 @@
+name: chaste-environment
+channels:  
+  - conda-forge
+  - bioconda
+  - kwabenantim
+dependencies:  
+  - chaste
